@@ -27,4 +27,4 @@ If the bash script is not running properly, make it executable by running:
 
 Indicate the input directory with the files that need to be encrypted and the output directory where you want the encrypted files to be placed.
 
-[]!(./images/Prompts.png)
+![screenshot](images/Prompts.png)
