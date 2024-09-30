@@ -41,7 +41,7 @@ Set up the Transfer Protocol and Login information with the following settings:
 
 ## Step 6. Select encrypted/to-encrypt files 
 Select the files you want to submit and if they are already encrypted, move to the encrypted folder; otherwise, move to the to-encrypt folder.
-![encrypted/to-encrypt folders](images/encrypted.png)
+![encrypted/to-encrypt folders](images/Encrypted.png)
 
 ## Step 7. Confirm your submission
 After the submission shows as completed on FileZilla, you can verify if your files are visible on the submission portal by logging in to the ega-box > Files and filtering in descendant manner on the "Created" column. 
