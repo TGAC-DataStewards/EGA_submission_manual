@@ -25,7 +25,11 @@ Start FileZilla by running:
 
    ./filezilla 
 ```
-TIP:
+TIP: In case you are having issues when running this command, try changing and keeping track of your working environment by running:
+```bash
+
+   env | sort > env_working.txt 
+```
 ## Step 4. Open the site manager and add a New site
 ![Site manager icon highlighted](images/SiteManager.png)
 ![Site manager options](images/Options.png)
