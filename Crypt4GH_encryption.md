@@ -23,6 +23,6 @@ If the bash script is not running properly, make it executable by running:
    chmod +x encrypt_all.sh
 ```
 
-## Step 3. (If Applicable) - Run the bash script and enter the input and ouptut directory paths
+## Step 3. Run the bash script and enter the input and ouptut directory paths
 
 Indicate the input directory with the files that need to be encrypted and the output directory where you want the encrypted files to be placed.
