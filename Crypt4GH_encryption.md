@@ -12,7 +12,7 @@
 
 ## Step 1. Import bash script and public key
 
-Make sure to import the encrypt_all.sh script and the corresponding public key for your encryption (e.g: id_ed25519.pub).
+Make sure to import the *encrypt_all.sh* script and the corresponding public key for your encryption (e.g: *id_ed25519.pub*).
 
 ## Step 2. (If Applicable) - Make the script executable
 
