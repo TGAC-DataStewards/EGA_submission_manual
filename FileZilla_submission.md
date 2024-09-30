@@ -35,7 +35,7 @@ TIP: In case you are having issues when running this command, try changing and k
 ![Site manager icon highlighted](images/SiteManager.png)
 ![Site manager options](images/Options.png)
 
-## Step 5. Set up the General Settings
+## Step 5. Set up the general settings
 Set up the Transfer Protocol and Login information with the following settings:
 ![General settings for transfer protocol and login](images/Settings.png)
 
