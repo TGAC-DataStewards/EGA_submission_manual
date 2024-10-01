@@ -1,5 +1,4 @@
-# FileZilla Submission
-
+# FileZilla Data Upload
 ## Notes
 
 All files submitted via FileZilla should be encrypted by Crypt4GH. For more information please review [EGA Inbox Submission](https://ega-archive.org/submission/data/uploading-files/inbox/)
