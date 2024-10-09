@@ -25,10 +25,10 @@ Start FileZilla by running:
 
    ./filezilla 
 ```
-TIP: In case you are having issues when running this command, try changing and keeping track of your working environment by running:
+TIP: In case you are having issues when running this command, try changing your localhost: (For example by creating a new screen session on byobu). You can keep track of your localhost connection by running:
 ```bash
 
-   env | sort > env_working.txt 
+   echo $DISPLAY 
 ```
 ## Step 4. Open the site manager and add a New site
 ![Site manager icon highlighted](images/SiteManager.png)
