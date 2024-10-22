@@ -5,7 +5,7 @@ All files submitted via FileZilla should be encrypted by Crypt4GH. For more info
 
 ## Step 1. Download the latest FileZilla
 
-Downloaded the file: FileZilla_3.67.1_x86_64-linux-gnu.tar.xz from the link.
+Downloaded the file: FileZilla_3.67.1_x86_64-linux-gnu.tar.xz from the [link](https://filezilla-project.org/download.php?type=client).
 
 ## Step 2. Import downloaded file
 
